@@ -4,7 +4,6 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg?style=flat-square)
 
-A robust, terminal-based management system for car repair shops, written in modern C++. It streamlines vehicle intake, automated diagnostics, dynamic cost calculation, and daily revenue reporting. 
 
 <div align="center">
   <img src="demo.gif" alt="Workshop System Demo CLI" width="700"/>
