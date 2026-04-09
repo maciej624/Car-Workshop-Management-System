@@ -4,7 +4,7 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg?style=flat-square)
 
-
+##Project for one of my classes
 <div align="center">
   <img src="demo.gif" alt="Workshop System Demo CLI" width="700"/>
   <p><i>Real-time terminal execution of the Workshop Management System.</i></p>
